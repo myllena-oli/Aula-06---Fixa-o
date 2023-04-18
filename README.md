@@ -1,2 +1,2 @@
-# Aula-06---Fixa-o
+# Aula06-Fixacao
 Exercícios de fixação da aula 6
